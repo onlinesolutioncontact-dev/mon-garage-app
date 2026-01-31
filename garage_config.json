@@ -1,0 +1,56 @@
+{
+    "Peugeot 307": {
+        "Plaque": "AS-091-NE",
+        "Desc": "R\u00e9cup\u00e9r\u00e9 de l'historique",
+        "Marque": "Peugeot",
+        "Modele": "307",
+        "Moteur": "1.6 HDi 110",
+        "Huile": "3.75L (5W30)",
+        "Conso_Th": "5.0L/100"
+    },
+    "Citroen c5": {
+        "Plaque": "CG-627-VC",
+        "Desc": "R\u00e9cup\u00e9r\u00e9 de l'historique",
+        "Marque": "Citro\u00ebn",
+        "Modele": "C5 II",
+        "Moteur": "2.0 HDi 160",
+        "Huile": "5.0L (5W30)",
+        "Conso_Th": "5.8L/100"
+    },
+    "LAtitude": {
+        "Plaque": "BV-158-LT",
+        "Desc": "R\u00e9cup\u00e9r\u00e9 de l'historique",
+        "Marque": "Renault",
+        "Modele": "Latitude",
+        "Moteur": "2.0 dCi 175",
+        "Huile": "7.4L (5W30)",
+        "Conso_Th": "6.5L/100"
+    },
+    "BMW": {
+        "Plaque": "GS-194-AH",
+        "Desc": "R\u00e9cup\u00e9r\u00e9 de l'historique",
+        "Marque": "BMW",
+        "Modele": "S\u00e9rie 3 (L6)",
+        "Moteur": "2.8L Essence (6 Cyl)",
+        "Huile": "6.5L (5W30/5W40)",
+        "Conso_Th": "9.0L/100"
+    },
+    "Twingo": {
+        "Plaque": "AT-164-ZJ",
+        "Desc": "R\u00e9cup\u00e9r\u00e9 de l'historique",
+        "Marque": "Renault",
+        "Modele": "Twingo II",
+        "Moteur": "1.2 16V 75ch",
+        "Huile": "4.0L (10W40)",
+        "Conso_Th": "5.1L/100"
+    },
+    "kangoo": {
+        "Plaque": "XX-XXX-XX",
+        "Desc": "R\u00e9cup\u00e9r\u00e9 de l'historique",
+        "Marque": "Renault",
+        "Modele": "Kangoo",
+        "Moteur": "1.9d (Atmo)",
+        "Huile": "4.5L (10W40)",
+        "Conso_Th": "6.5L/100"
+    }
+}
